@@ -1,3 +1,10 @@
+Week Fri 09/21/18 - Thu 09/27/18
+
+*  Exploring Jabref
+*  Researching on remaining summaries
+*  project proposal discussion with the team 
+*  Determine the technologies use in the project
+
 Week Fri 09/14/18 - Thu 09/20/18
 
 *  Completed two summaries
@@ -12,7 +19,7 @@ Week Fri 09/06/18 - Thu 09/13/18
 * Started writing the technology summaries
 
 
-Week Fri 08/31/18 - Thu 09/06/18 .
+Week Fri 08/31/18 - Thu 09/06/18 
 
 * Went through lecture videos 
 * Setup Github 
