@@ -1,3 +1,9 @@
+Week Fri 09/14/18 - Thu 09/20/18
+
+*  Completed two summaries
+*  Installed JabRef
+*  Gone through updated epub
+
 Week Fri 09/06/18 - Thu 09/13/18
 
 * Setup Future Systems account
