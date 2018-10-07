@@ -1,4 +1,4 @@
-**Week Fri 09/28/18 - Thu 10/04/18**
+# Week Fri 09/28/18 - Thu 10/04/18 
 
 * Completed remaining summaries
 * Research on Project , how to embed Mongo DB for multi CSV's.
