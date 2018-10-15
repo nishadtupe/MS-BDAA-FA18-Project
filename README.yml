@@ -3,7 +3,7 @@ owner:
   lastname: "Tupe"
   hid: "fa18-523-64"
   community: "i523"
-  semester: fa18
+  semester: "fa18"
   
 technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/giraph.md
