@@ -1,3 +1,17 @@
+# Week Fri 10/12/18 - Thu 10/18/18
+* Wrote the literature review for Project
+* Peer-reviewed the Flask Mongo and Mongo Engine paper wrote by team member.
+* Research on MongoDB joins how to incorporate in current project
+* Add the project reference paper.bib file for MongoDB, Flask-Mongo
+* Updated the README.yml file.
+
+# Week Fri 10/05/18 - Thu 10/11/18
+* Worked on the corrections for all Summaries.
+* Wrote the MongoDB paper
+* Updated the reference , resolved conflicts.
+* Verfied the summaries.
+* Joined the office hours to understand the Github issues.
+
 # Week Fri 09/28/18 - Thu 10/04/18 
 
 * Completed remaining summaries
