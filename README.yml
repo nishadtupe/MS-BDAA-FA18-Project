@@ -4,3 +4,26 @@ owner:
   lastname: "Tupe"
   hid: "fa18-523-64"
   community: "i523"
+---
+owner:
+  firstname: "Nishad"
+  lastname: "Tupe"
+  hid: "fa18-523-64"
+  community: "i523"
+  semester: fa18
+technologies:
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/giraph.md
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/cloudstack.md
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/cloud-foundry.md
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/rkt.md  
+paper:
+  - keyword: MongoDB
+    title: "MongoDB, PyMongo, MongoEngine, and Flask-Mongo"
+    url: https://github.com/cloudmesh-community/fa18-523-60/blob/master/paper/paper.md
+    group: fa18-523-60 fa18-523-64 fa18-523-72
+project:
+  - keyword: MongoDB
+    title: "Instacart Basket Analysis using MongoDB and Performance Benchmarking on VM and Cloud"
+    url: https://github.com/cloudmesh-community/fa18-523-60/blob/master/project-report/report.md
+    group: fa18-523-60 fa18-523-64 fa18-523-72
+    code: TBD
