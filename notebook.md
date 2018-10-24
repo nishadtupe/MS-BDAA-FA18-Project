@@ -1,3 +1,8 @@
+# Week Fri 10/19/18 - Thu 10/25/18
+* Created new fork to cloudmesh technologies
+* Changed the summaries and Reference as suggested by Professor in office hours
+* Working on the project project paper and proposal.
+
 # Week Fri 10/12/18 - Thu 10/18/18
 * Wrote the literature review for Project
 * Peer-reviewed the Flask Mongo and Mongo Engine paper wrote by team member.
