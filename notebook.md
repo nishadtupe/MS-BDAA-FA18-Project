@@ -1,7 +1,8 @@
 # Week Fri 10/19/18 - Thu 10/25/18
 * Created new fork to cloudmesh technologies
 * Changed the summaries and Reference as suggested by Professor in office hours
-* Working on the project project paper and proposal.
+* Worked on the project project paper and proposal.
+* exploring the cloud options for deploying the app
 
 # Week Fri 10/12/18 - Thu 10/18/18
 * Wrote the literature review for Project
