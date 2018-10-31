@@ -1,4 +1,11 @@
 # Week Fri 10/19/18 - Thu 10/25/18
+* Installed vagrant
+* Installed Ubuntu/Debian Unix VM box for project using Vagrant script
+* Verified the papers on project
+* Installed MongoDB on Ubuntu and imported documents.
+
+
+# Week Fri 10/19/18 - Thu 10/25/18
 * Created new fork to cloudmesh technologies
 * Changed the summaries and Reference as suggested by Professor in office hours
 * Worked on the project project paper and proposal.
@@ -24,6 +31,7 @@
 * Research on Project , how to embed Mongo DB for multi CSV's.
 * Research on deploying mongo DB on cloud and deploy apps.
 * Glance the updated epub documents. 
+* Attended office hours
 
 # Week Fri 09/21/18 - Thu 09/27/18 
 
