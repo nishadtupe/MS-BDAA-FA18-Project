@@ -1,24 +1,25 @@
 # Week Fri 11/23/18 - Thu 11/29/18
 
-* Create Cloud Ubuntu VM on digital ocean cloud services.
-* Developed and tested the MongoDB Installation and CSV Import to MongoDB script.
-* Installed Anaconda Python distribution on Digital Ocean VM.
+* Create Cloud Ubuntu VM on *DigitalOcean* *Cloud* platform.
+* Developed and tested the MongoDB Installation and CSV Import to MongoDB 
+  using *bash script*.
+* Installed Anaconda Python distribution on *DigitalOcean* VM.
 * Corrected the references in the paper.md
-* Developed to script to push the csv data Cloud instance using PyMongo.
+* Developed to ptyhon script to push the csv data Cloud instance using PyMongo.
 * Working on Implementing Machine Learning algorithm.
 
 # Week Fri 11/16/18 - Thu 11/22/18
 
 * Exploratory Analysis on Kickstarter Project using Python and Jupyter Notebook
 * Literature review of Kickstarter Project.
-* Created MongoDB Atlas Cloud Instances,created users.
+* Created *MongoDB Atlas* Cloud Instance and cluster,created users.
 * Developed to script to push the csv data Cloud instance using PyMongo.
 * Attended the Office Hours to seek guidance on deploying Apps.
 
 # Week Fri 11/9/18 - Thu 11/15/18
 
 * Added the examples to the MongoDB section of the paper.
-* Installed configured docker,docker-compose and tried to build containers.
+* Installed configured *Docker,Docker-Compose* and tried to build containers.
 * Performed the project research and design analysis.
 * Corrected the references in MongoDB Section.
 
@@ -31,13 +32,13 @@
 
 # Week Fri 10/26/18 - Thu 11/1/18
 
-* Conducted thorough technical review for Project and 
+* Conducted thorough technical review for Project and dataset
 * Identified the loops holes for implementing Instacart data through MongoDB
 * Learned about creating VM's on cloud's for Amazon, Google , deploying apps using Docker
 * Went through Videos and Epub material.
 
 # Week Fri 10/19/18 - Thu 10/25/18
-* Installed and Configured vagrant
+* Installed and Configured *Vagrant*
 * Installed Ubuntu/Debian Unix VM box for project using Vagrant script
 * Verified the papers on project
 * Installed MongoDB on Ubuntu and imported databases.
