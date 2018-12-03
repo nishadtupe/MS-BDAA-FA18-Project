@@ -1,5 +1,14 @@
 # Week Fri 11/23/18 - Thu 11/29/18
 
+* Implemented and completed the logistic regression for project
+* Prepared the architecture diagram and Architecture document
+* Performed the performance benchmarking on cloud (Mongo Atlas and DigitalOcean)
+* Wrote project Papers sections and peer review some of the content. 
+* Coordinated and led the project meetings
+* Performed the code consolidation/organization on github.com 
+
+# Week Fri 11/23/18 - Thu 11/29/18
+
 * Create Cloud Ubuntu VM on *DigitalOcean* *Cloud* platform.
 * Developed and tested the MongoDB Installation and CSV Import to MongoDB 
   using *bash script*.
