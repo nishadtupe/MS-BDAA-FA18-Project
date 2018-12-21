@@ -1,22 +1,13 @@
-owner:
-  firstname: "Nishad"
-  lastname: "Tupe"
-  hid: "fa18-523-64"
-  community: "i523"
-  semester: "fa18"
-technologies:
-  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/giraph.md
-  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/cloudstack.md
-  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/cloud-foundry.md
-  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/rkt.md
-paper:
-  - keyword: MongoDB
-    title: "MongoDB in Python"
-    url: https://github.com/cloudmesh-community/book/blob/master/chapters/data/mongodb.md
-    group: fa18-523-60 fa18-523-64 fa18-523-72
-project:
-  - keyword: MongoDB, PyMongo, Crowdfunding, VM's, IaaS & DBaaS Cloud, Data Analysis, Predictions
-    title: "Kickstarter Projects Analysis"
-    url: https://github.com/cloudmesh-community/fa18-523-60/blob/master/project-report/report.md
-    group: fa18-523-60 fa18-523-64 fa18-523-72
-    code: https://github.com/cloudmesh-community/fa18-523-60/tree/master/project-report/bin
+## Abstract
+
+Crowdfunding is a certain way of raising funds where individuals come 
+together and collectively support projects by investing in them. 
+Kickstarter is one of the leading crowdfunding platforms in the world 
+that helps individuals/businesses in various categories such as art, 
+film, music, theatre, games, design, and other, to raise necessary funds 
+to complete their projects. This paper explores the utilization of big 
+data technologies and cloud services such as MongoDB, virtual machines, 
+MongoDB Atlas, DigitalOcean, AWS, and PyMonogo while analyzing the 
+Kickstarter Projects dataset obtained from the Kaggle datascience 
+platform. 
+
